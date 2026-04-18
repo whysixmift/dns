@@ -7,3 +7,6 @@
 waka:
   type: CNAME
   value: computational-peanut-mvy0y15xi0piy49ub7khg5mn.herokudns.com.
+expense:
+  - type: A
+    value: 37.27.51.35
